@@ -1,0 +1,100 @@
+{
+  "name": "microsoft",
+  "owner": {
+    "name": "Microsoft"
+  },
+  "description": "Claude Code marketplace federating every @amlplugins/microsoft-* plugin under a single marketplace source.",
+  "plugins": [
+    {
+      "name": "azure-cosmos-db",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/azure-cosmos-db.git"
+      }
+    },
+    {
+      "name": "azure-event-grid",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/azure-event-grid.git"
+      }
+    },
+    {
+      "name": "azure-functions",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/azure-functions.git"
+      }
+    },
+    {
+      "name": "azure-key-vault",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/azure-key-vault.git"
+      }
+    },
+    {
+      "name": "azure-openai",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/azure-openai.git"
+      }
+    },
+    {
+      "name": "azure-service-bus",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/azure-service-bus.git"
+      }
+    },
+    {
+      "name": "azure-storage-blob",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/azure-storage-blob.git"
+      }
+    },
+    {
+      "name": "microsoft-graph-calendar",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/microsoft-graph-calendar.git"
+      }
+    },
+    {
+      "name": "microsoft-graph-drive",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/microsoft-graph-drive.git"
+      }
+    },
+    {
+      "name": "microsoft-graph-mail",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/microsoft-graph-mail.git"
+      }
+    },
+    {
+      "name": "microsoft-graph-sharepoint",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/microsoft-graph-sharepoint.git"
+      }
+    },
+    {
+      "name": "microsoft-graph-teams",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/microsoft-graph-teams.git"
+      }
+    },
+    {
+      "name": "microsoft-graph-users",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/microsoft-graph-users.git"
+      }
+    }
+  ]
+}
